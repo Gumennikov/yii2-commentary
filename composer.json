@@ -1,0 +1,21 @@
+{
+    "name": "ilyag/yii2-commentary",
+    "description": "Commentary module for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," commentary"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ilya Gumennikov",
+            "email": "iv.gumennikov@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ilyag\\commentary\\": ""
+        }
+    }
+}
